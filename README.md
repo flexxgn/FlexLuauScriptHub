@@ -1,2 +1,2 @@
-# g
+# luau scripts
 g
